@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>logo_40jahre.png</file>
+    </qresource>
+</RCC>
